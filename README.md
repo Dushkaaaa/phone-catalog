@@ -5,7 +5,7 @@
 All implemented using *React*, *TypeScript*, *SCSS*, and *React Router*.
 
 ## 🔗 Live Preview
-[https://dushkaaaa.github.io/To-Do-App/](https://dushkaaaa.github.io/To-Do-App/)
+[https://dushkaaaa.github.io/phone-catalog/#/](https://dushkaaaa.github.io/phone-catalog/#/)
 > ⚠️ Verified: Link is publicly available (check incognito)
 
 ## 🎨 Design Reference
@@ -42,6 +42,8 @@ All implemented using *React*, *TypeScript*, *SCSS*, and *React Router*.
   npm install
   # or
   yarn install
+
+  npm install swiper
   ```
 
 3. Run the project locally:
