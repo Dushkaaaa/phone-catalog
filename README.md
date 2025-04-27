@@ -1,9 +1,52 @@
-# React TypeScript Starter Pack
+# 📱 Phone Catalog – Simple Product Showcase
 
-To use this template click `Use this template`
+## 🗒️ Description
+**Phone Catalog** — Is a simple web application for browsing and selecting mobile phones. The user can browse a list of products, filter and sort them, view detailed information about each device, and add products to cart or favorites.
+All implemented using *React*, *TypeScript*, *SCSS*, and *React Router*.
 
-### Available Scripts
+## 🔗 Live Preview
+[https://dushkaaaa.github.io/To-Do-App/](https://dushkaaaa.github.io/To-Do-App/)
+> ⚠️ Verified: Link is publicly available (check incognito)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## 🎨 Design Reference
+[DESIGN](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f)
+> *The design was created in Figma and serves as the main reference for the project.*
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## ✨ Features
+- ✅ Product catalog view
+- 🔍 Search and filtering
+- 📄 Detailed product page
+- 🛒 Adding/removing items from the cart
+- ❤️ Adding/removing items from favorites
+- 🧹 Clearing cart and favorites
+- 📱 Responsive design for all devices
+
+## 💻 Technologies Used
+- **React**
+- **SCSS**
+- **TypeScript**
+- **React Router**
+- **localStorage**
+- **Git / GitHub**
+- **GitHub Pages** (for deploy)
+
+## 🚀 Getting Started
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/your-username/project-name.git
+  cd project-name
+  ```
+
+2. Install dependencies:
+  ```bash
+  npm install
+  # or
+  yarn install
+  ```
+
+3. Run the project locally:
+  ```bash
+  npm start
+  # or
+  yarn start
+  ```
